@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168555090835",
+    "firebase_url": "https://mykeypoint-d1af8.firebaseio.com",
+    "project_id": "mykeypoint-d1af8",
+    "storage_bucket": "mykeypoint-d1af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168555090835:android:6884745fb7bda66d39ce66",
+        "android_client_info": {
+          "package_name": "com.keys.mykeypoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168555090835-3qnp834v3jhf4s76kormc9p9no43hcju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdA_UMSZWNGbz_hQi4vDBgUugwUrvYFcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168555090835-3qnp834v3jhf4s76kormc9p9no43hcju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
